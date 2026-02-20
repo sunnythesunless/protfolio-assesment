@@ -1,15 +1,15 @@
 {
     "name": "Kunal",
     "title": "Full Stack Developer",
-    "phone": "8077480194",
+    "phone": "",
     "tagline": "Full-Stack Developer skilled in React, Next.js 14, Node.js, and TypeScript — building scalable web applications with AI-driven solutions",
     "about": "Full-Stack Developer skilled in React, Next.js 14, Node.js, Express.js, RESTful APIs, MongoDB, and TypeScript. Built and deployed 3 production applications with 30+ APIs, 89+ unit tests, and scalable architectures. Experienced in component libraries, authentication systems, real-time dashboards, and database optimization.",
     "education": [
         {
             "degree": "Bachelor of Technology",
             "field": "Computer Science and Engineering",
-            "school": "College of Engineering Roorkee",
-            "year": "2024",
+            "school": "College of Engineering",
+            "year": "",
             "highlights": [
                 "Data Structures & Algorithms",
                 "Database Systems",
@@ -157,7 +157,7 @@
     ],
     "contact": {
         "email": "workwithgonebone@gmail.com",
-        "phone": "8077480194",
+        "phone": "",
         "github": "https://github.com/sunnythesunless",
         "linkedin": "https://linkedin.com/in/kunal",
         "leetcode": "https://leetcode.com/u/bonegone",
