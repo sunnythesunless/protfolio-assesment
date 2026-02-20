@@ -1,0 +1,166 @@
+{
+    "name": "Kunal",
+    "title": "Full Stack Developer",
+    "phone": "8077480194",
+    "tagline": "Full-Stack Developer skilled in React, Next.js 14, Node.js, and TypeScript — building scalable web applications with AI-driven solutions",
+    "about": "Full-Stack Developer skilled in React, Next.js 14, Node.js, Express.js, RESTful APIs, MongoDB, and TypeScript. Built and deployed 3 production applications with 30+ APIs, 89+ unit tests, and scalable architectures. Experienced in component libraries, authentication systems, real-time dashboards, and database optimization.",
+    "education": [
+        {
+            "degree": "Bachelor of Technology",
+            "field": "Computer Science and Engineering",
+            "school": "College of Engineering Roorkee",
+            "year": "2024",
+            "highlights": [
+                "Data Structures & Algorithms",
+                "Database Systems",
+                "Software Engineering",
+                "Web Technologies"
+            ],
+            "academic_projects": [
+                "Full-Stack Applications",
+                "REST API Development",
+                "Frontend Component Libraries"
+            ]
+        }
+    ],
+    "skills": {
+        "frontend": [
+            "Next.js 14",
+            "React 18",
+            "TypeScript",
+            "Tailwind CSS 4",
+            "TanStack Query",
+            "Shadcn UI",
+            "Framer Motion",
+            "Zustand"
+        ],
+        "backend": [
+            "Node.js",
+            "Express.js",
+            "Python",
+            "FastAPI",
+            "RESTful APIs",
+            "Inngest",
+            "Nodemailer",
+            "Better Auth",
+            "Axios"
+        ],
+        "databases": [
+            "MongoDB",
+            "PostgreSQL",
+            "Drizzle ORM",
+            "NeonDB",
+            "SQLite"
+        ],
+        "devops_tools": [
+            "Git",
+            "GitHub",
+            "Vercel",
+            "Railway",
+            "Docker",
+            "Postman",
+            "VS Code"
+        ],
+        "core_skills": [
+            "Data Structures & Algorithms",
+            "System Design",
+            "Component Architecture",
+            "Unit Testing"
+        ]
+    },
+    "experience": [
+        {
+            "role": "Web Development Intern",
+            "company": "Prodigy InfoTech",
+            "duration": "1 Month",
+            "highlights": [
+                "Developed 15+ responsive React components using Tailwind CSS 4 and Shadcn UI, improving UI consistency by 90%",
+                "Optimized JavaScript DOM interactions reducing render times by 40% through memoization and virtualization",
+                "Collaborated with 5-member team to deliver 8 client features under tight deadlines"
+            ]
+        },
+        {
+            "role": "Java Programming Intern",
+            "company": "InternPe",
+            "duration": "1 Month",
+            "highlights": [
+                "Built backend modules using Core Java OOP principles and optimized data structures for 2x query performance",
+                "Designed and implemented array/tree-based algorithms solving 20+ production-level system challenges",
+                "Maintained 100% code quality standards through comprehensive testing and peer code reviews"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "name": "StockPulse - Real-Time Stock Dashboard",
+            "description": "Full-stack stock tracking application using Next.js 14 and Finnhub API integration with Inngest background job processing. Built 15+ responsive components with Tailwind CSS 4, Shadcn UI, and TradingView widgets for real-time market visualization. Implemented MongoDB watchlists, Nodemailer price alerts, and Better Auth authentication.",
+            "tech": [
+                "Next.js 14",
+                "TypeScript",
+                "Tailwind CSS 4",
+                "Shadcn UI",
+                "MongoDB",
+                "Inngest",
+                "Finnhub API",
+                "Better Auth",
+                "Nodemailer"
+            ],
+            "github": "https://github.com/sunnythesunless/stock-pulse",
+            "live": "https://stockpulsee.vercel.app"
+        },
+        {
+            "name": "InsightOps - Knowledge Management Platform",
+            "description": "Architected 31 RESTful APIs and 25 custom React hooks with comprehensive test coverage (89+ unit tests). Developed real-time risk dashboards using Next.js 14 and Tailwind CSS 4 with Axios JWT refresh interceptors. Optimized database queries reducing load times by 60% using MongoDB aggregation pipelines.",
+            "tech": [
+                "Next.js 14",
+                "React",
+                "TypeScript",
+                "Tailwind CSS 4",
+                "MongoDB",
+                "Axios",
+                "JWT"
+            ],
+            "github": "https://github.com/sunnythesunless/kds-client",
+            "live": "https://kdsss.vercel.app"
+        },
+        {
+            "name": "Classroom - Institutional Management System",
+            "description": "Created 30+ component React library with TypeScript, Tailwind CSS 4, and role-based access control (RBAC). Integrated Drizzle ORM with NeonDB for scalable database operations and automated enrollment workflows. Implemented Arcjet security, Better Auth sessions, and production deployment on Vercel/Railway.",
+            "tech": [
+                "React",
+                "TypeScript",
+                "Tailwind CSS 4",
+                "Drizzle ORM",
+                "NeonDB",
+                "Better Auth",
+                "Arcjet",
+                "Vercel",
+                "Railway"
+            ],
+            "github": "https://github.com/sunnythesunless/unidash-client",
+            "live": "https://unidash-client.vercel.app"
+        },
+        {
+            "name": "Portfolio with AI Chat",
+            "description": "Personal portfolio website featuring an AI-powered chat assistant that answers questions about my resume using OpenRouter API and structured prompt engineering. Built with React, TypeScript, and Python FastAPI backend.",
+            "tech": [
+                "React",
+                "TypeScript",
+                "Python",
+                "FastAPI",
+                "SQLite",
+                "OpenRouter"
+            ],
+            "github": "",
+            "live": "https://kunal-gonebone.vercel.app"
+        }
+    ],
+    "contact": {
+        "email": "workwithgonebone@gmail.com",
+        "phone": "8077480194",
+        "github": "https://github.com/sunnythesunless",
+        "linkedin": "https://linkedin.com/in/kunal",
+        "leetcode": "https://leetcode.com/u/bonegone",
+        "portfolio": "https://kunal-gonebone.vercel.app"
+    }
+}
